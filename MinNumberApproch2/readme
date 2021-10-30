@@ -1,0 +1,15 @@
+//Approch -1 min number
+------------------------
+// our first algortithm
+// [4,3,1,5] - > min number
+make assending order to array
+find first index value
+// [1,3,4,5] -> array[0];
+
+
+//Approch -2 min number
+------------------------
+// step -1 First element shuld be treded as min number
+// steap -2 : Check if next number is min 3 < 4
+// staep -3 : I will pretend that min no is 3
+// Repeat the same steap 2 and 3 till end of array.
